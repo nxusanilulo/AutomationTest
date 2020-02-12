@@ -12,10 +12,11 @@
 ## How to open and run selenium test:
 * Download the  project
 * Create a new Java Project and then do File -> Import -> General -> Archive File
-* ![GitHub Logo](/Users/lulonxusani/Desktop/ArchiveFile.png)
+ ![](screenshots/ArchiveFile.png)
 * Browse for the location of the project
 * Make sure the new java project is selected on the 'into folder' section
 * Ensure all of the files are selected
+![](screenshots/SelectAllFiles.png)
 * Click finish
 * Overwrite .classpath and .gitattributes
 * On the project click on functionalUITest
