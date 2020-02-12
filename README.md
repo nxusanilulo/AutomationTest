@@ -41,7 +41,12 @@
 ## How to open and run postman test:
 * Download the postman project
 * Click the Import button in the header bar
+
+![](screenshots/importButton.png)
+
 * Choose the project
+
+![](screenshots/chooseFile.png)
 
 * Make sure dependencies for Junit and Selenium  are added on build.gradle file
 * The test is in the "VerifyGraphOfGrowthOfHypotheticalInvestmentExistTest" class which is a child of * "VerifyGraphOfGrowthOfHypotheticalInvestmentExist"
